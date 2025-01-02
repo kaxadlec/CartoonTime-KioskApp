@@ -1,1 +1,1 @@
-# CartoonTimes-KioskApp
+# CartoonTime-KioskApp
